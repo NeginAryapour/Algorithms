@@ -1,3 +1,3 @@
 # Algorithms
-* [./bst](BST)
-* [./expression_tree](Expression Tree)
+* [BST](./bst)
+* [Expression Tree](./expression_tree)
