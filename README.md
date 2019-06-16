@@ -1,5 +1,6 @@
 # Algorithms
-* [BST](./bst)
-* [Expression Tree](./expression_tree)
+* [BST](./bst/BST.ipynb)
+* [Expression Tree](./expression_tree/expression_tree.ipynb)
 * [Sort](./sort)
-  * [qsort](./sort/qsort.ipynb)
+  * [Quick Sort](./sort/qsort.ipynb)
+  * [Selection Sort](./sort/selection_sort.ipynb)
